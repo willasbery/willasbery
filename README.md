@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-⚡Computer Science graduate from the University of Manchester<br>🌱 I’m currently mainly using Next and FastAPI.<br>
+⚡Computer Science graduate from the University of Manchester<br>🌱 I’m currently developing [![UniSights](https://unisights.com) using NextJS and FastAPI.<br>
 
 ## 🌐 Socials:
 
