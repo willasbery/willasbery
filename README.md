@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-⚡Computer Science final year at the University of Manchester<br>🌱 I’m currently learning React, React Native and FastAPI<br>
+⚡Computer Science graduate from the University of Manchester<br>🌱 I’m currently learning Next and FastAPI<br>
 
 ## 🌐 Socials:
 
